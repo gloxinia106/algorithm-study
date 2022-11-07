@@ -6,7 +6,7 @@
 
 ### 200-자료구조 1
 
-- [ ] [스택](https://www.acmicpc.net/problem/10828)
+- [0] [스택](https://www.acmicpc.net/problem/10828)
 - [ ] [단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [ ] [괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [스택 수열](https://www.acmicpc.net/problem/1874)
