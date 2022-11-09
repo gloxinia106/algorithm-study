@@ -8,7 +8,7 @@
 
 - [x] [스택](https://www.acmicpc.net/problem/10828)
 - [x] [단어 뒤집기](https://www.acmicpc.net/problem/9093)
-- [ ] [괄호](https://www.acmicpc.net/problem/9012)
+- [x] [괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [스택 수열](https://www.acmicpc.net/problem/1874)
 - [ ] [에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [큐](https://www.acmicpc.net/problem/10845)
