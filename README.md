@@ -11,7 +11,7 @@
 - [x] [괄호](https://www.acmicpc.net/problem/9012)
 - [x] [스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [에디터](https://www.acmicpc.net/problem/1406)
-- [ ] [큐](https://www.acmicpc.net/problem/10845)
+- [x] [큐](https://www.acmicpc.net/problem/10845)
 - [ ] [조세퍼스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [덱](https://www.acmicpc.net/problem/10866)
 
