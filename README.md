@@ -13,7 +13,7 @@
 - [x] [에디터](https://www.acmicpc.net/problem/1406)
 - [x] [큐](https://www.acmicpc.net/problem/10845)
 - [x] [조세퍼스 문제](https://www.acmicpc.net/problem/1158)
-- [ ] [덱](https://www.acmicpc.net/problem/10866)
+- [x] [덱](https://www.acmicpc.net/problem/10866)
 
 ### 201-자료구조 1 (연습)
 
